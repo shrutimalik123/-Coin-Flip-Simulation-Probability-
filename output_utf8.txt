@@ -1,0 +1,16 @@
+﻿--- Coin Flip Simulation Parameters ---
+Total Flips (N): 1000
+Theoretical Probability of Heads (p): 0.5
+
+==================================================
+
+--- Empirical Results (Simulation) ---
+Number of Heads observed: 500
+Empirical Probability P(Heads): 0.5000
+
+==================================================
+
+--- Theoretical Probability (Binomial PMF) ---
+Target Outcome (k): 500 Heads
+P(X = 500 Heads in 1000 Flips): 0.025225018178360824
+This outcome has a theoretical chance of: 2.523%
